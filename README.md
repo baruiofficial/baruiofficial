@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Prosenjit Barui
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning GO
-- 💞️ I’m looking to collaborate on an open source e-commerce project in GO
 - 📫 How to reach me you can email me on baruiofficial@gmail.com
 
 <!---
